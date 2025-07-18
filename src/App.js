@@ -10,21 +10,21 @@ function App() {
       id: 'spendyg',
       name: 'SPendyG',
       displayName: 'SPendyG',
-      image: '/images/pics/spendyg.svg',
+      image: '/images/pics/spendyg.png',
       greeting: 'Hello SPendyG'
     },
     {
       id: 'jason',
       name: 'Jason',
       displayName: 'Jason', 
-      image: '/images/pics/jason.svg',
+      image: '/images/pics/jason_neo_square.png',
       greeting: 'Hello Jason'
     },
     {
       id: 'jd',
       name: 'JD',
       displayName: 'JD',
-      image: '/images/pics/jd.svg',
+      image: '/images/pics/jd_airforce.png',
       greeting: 'Hello JD'
     }
   ];
